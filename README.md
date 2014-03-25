@@ -13,4 +13,4 @@ The next update should output as a new file.
 
 Complexity: O(n), but can anyone confirm?
 
-Bugs: There may be an unitialized variable somewhere..
+Bugs: There may be an uninitialized variable somewhere..
