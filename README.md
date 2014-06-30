@@ -11,6 +11,6 @@ When selecting encode as an option, "bbb" will output "{3}b".
 This program currently reads in files, and outputs the encoded/decoded format.
 The next update should output as a new file.
 
-Complexity: O(n), but can anyone confirm?
+Complexity: O(n)
 
 Bugs: There may be an uninitialized variable somewhere..
